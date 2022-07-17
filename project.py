@@ -6,4 +6,4 @@ Created on Sun Jul 17 23:14:00 2022
 from  numpy import *
 from  matplotlib.pyplot import *
 
-#This is a project
+#This is a project about sparse matrices
